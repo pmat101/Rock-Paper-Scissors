@@ -6,12 +6,12 @@
 
 ## Learnings from the project:
 
-- DOM methods like _getElementById_ and **addEventListener**
-- Generating random Hex colours
+- Conditional statements like _if-else_ and _switch case_
+- Generating random choice and comparing with user input
 
 ## Time taken:
 
-    It took me 30 minutes to complete this project.
+    It took me 2 hours to complete this project.
 
 ## Screenshots:
 
